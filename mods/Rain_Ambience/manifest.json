@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Rain Ambience",
-    "description": "It's pouring hard, stay indoors and cozy.",
+    "name": "My_playlist",
+    "description": "I made a whole mod just so I could play my own music.",
     "version": "1.1",
     "icons":
     {
@@ -18,7 +18,47 @@
         {
             "background_music":
             [
-                "music/rain.mp3"
+                "music/Lilith.mp3",
+                "music/A Toshi No Aki.mp3",
+                "music/A Million Miles Away.mp3",
+                "music/Almost Idyllic.mp3",
+                "music/APT..mp3",
+                "music/BATTLE OF THE LARYNX.mp3",
+                "music/Bidding Farewell to Love.mp3",
+                "music/BIRDS OF A FEATHER.mp3",
+                "music/bouquet.mp3",
+                "music/C'est la Vie.mp3",
+                "music/Cake.mp3",
+                "music/CASE 143.mp3",
+                "music/Casual.mp3",
+                "music/Chemtrails Over The Country Club.mp3",
+                "music/End Of Beginning.mp3",
+                "music/EVIL.mp3",
+                "music/FAERIE SOIRÉE.mp3",
+                "music/Gales of Song.mp3",
+                "music/Gilded Lily.mp3",
+                "music/Good Luck, Babe!.mp3",
+                "music/MOON CYCLE.mp3",
+                "music/Not Spring, Love, or Cherry Blossoms.mp3",
+                "music/Open The Door.mp3",
+                "music/Orange Juice.mp3",
+                "music/Outro.mp3",
+                "music/Pacify Her.mp3",
+                "music/Pick Up Light.mp3",
+                "music/Play Date.mp3",
+                "music/Queencard.mp3",
+                "music/Shining Clouds.mp3",
+                "music/Stay With Me.mp3",
+                "music/Strawberry Shortcake.mp3",
+                "music/Suki Suki Daisuki.mp3",
+                "music/Tag, You're It.mp3",
+                "music/The Other Side (Canglanjue Yinchangban).mp3",
+                "music/TUNNEL VISION.mp3",
+                "music/U.mp3",
+                "music/VOID.mp3",
+                "music/WOMB.mp3",
+                "music/芒种.mp3",
+                "music/はいよろこんで.mp3"
             ]
         }
     }
